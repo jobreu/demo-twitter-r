@@ -16,7 +16,7 @@ Wenn sie den "Launch Binder"-Button drücken, öffnet sich eine [Jupyter-Lab-Umg
 
 **Hinweis**: Um die Code-Beispiele im Notebook ausführen zu können, benötigen Sie [*Academic Research access*](https://developer.twitter.com/en/products/twitter-api/academic-research) für die [*Twitter* API v2](https://developer.twitter.com/en/docs/twitter-api).
 
-**NB**:Alle Änderungen, die Sie in den Notebooks vornehmen, sind nicht persistent (d.h. sie gelten nur für die jeweilige Nutzungssession).
+**NB**: Alle Änderungen, die Sie in den Notebooks vornehmen, sind nicht persistent (d.h. sie gelten nur für die jeweilige Nutzungssession).
 
 **Bitte beachten**: Das *Jupyter Notebook* bzw. die *Jupyter-Lab*-Umgebung, auf die Sie über die Schaltfläche "Launch Binder" zugreifen können, sind nur für Demonstrationszwecke gedacht. Diese sollten nicht für eigene Datenerhebungen verwendet werden. Wenn Sie das Notebook bzw. den Code daraus zum Sammeln von *Twitter*-Daten verwenden möchten, laden Sie das Notebook bitte herunter und führen Sie dieses (bzw. den darin enthaltenen Code) lokal auf Ihrem Rechner (oder Ihrem eigenen Server) aus.
 
